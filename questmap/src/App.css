@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/*
+ Simple override 
+*/
+.leaflet-tooltip {
+  background-color: #f0b92e !important;
+  border-color: black !important;
+  font-size: 1.2rem;
+}
+.leaflet-popup-content-wrapper{
+  background-image:url("img/old_paper.png") !important;
+}
+
+
+.Bar{
+text-shadow: white 2px 2px;
+background-image:url("img/old_paper.png")
+}

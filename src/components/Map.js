@@ -36,7 +36,7 @@ function Map() {
     <MapContainer 
     center={[51.505, -0.09]}
     zoom={13} 
-    style={{ height: "800px", width: "100%" }}
+    style={{ height: "1000px", width: "100%" }}
     >
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'

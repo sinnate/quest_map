@@ -1,0 +1,21 @@
+{
+    "root": {
+      "Quest 1": {
+        "Location": "Lat, Long",
+        "Timestamp": "Time",
+        "Next": {
+          "Quest 2": {
+            "Location": "Lat, Long",
+            "Timestamp": "Time",
+            "Next": {
+              "Quest 3": {
+                "Location": "Lat, Long",
+                "Timestamp": "Time"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  

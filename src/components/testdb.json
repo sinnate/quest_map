@@ -1,16 +1,19 @@
 {
     "root": {
       "Quest 1": {
-        "Location": "Lat, Long",
-        "Timestamp": "Time",
+        "Location": [51.505, -0.09],
+        "Timestamp": "11-09-1978",
+        "QuestInfo": "kill 5 wolfs for 5 gold 32 copper",
         "Next": {
           "Quest 2": {
-            "Location": "Lat, Long",
-            "Timestamp": "Time",
+            "Location": [51.505, -0.04],
+            "Timestamp": "23-04-1445",
+            "QuestInfo": "Talk to lady next to commender",
             "Next": {
               "Quest 3": {
-                "Location": "Lat, Long",
-                "Timestamp": "Time"
+                "Location": [51.48, -0.08],
+                "QuestInfo": "Found the Ligma of the wood",
+                "Timestamp": "20-10-2059"
               }
             }
           }
